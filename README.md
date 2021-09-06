@@ -1,2 +1,9 @@
-# mysql-node-demo
-demo
+# vue2+openlayers
+实现的功能点：
+1.地图选点
+2.地图点定位
+3.轨迹
+4.热力图
+5.聚类图
+6.加载图层
+7.与e-charts结合使用
